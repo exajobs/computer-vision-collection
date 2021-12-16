@@ -26,7 +26,7 @@
  - [500+ Projects](#500-projects)
 
 ## Awesome Lists
- - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+ - [Machine Learning Collection](https://github.com/exajobs/machine-learning-collection)
  - [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
  - [Awesome Domain Adaptation](https://github.com/zhaoxin94/awesome-domain-adaptation)
  - [Awesome Object Detection](https://github.com/amusi/awesome-object-detection)
@@ -60,7 +60,7 @@
  - [Awesome GAN applications](https://github.com/nashory/gans-awesome-applications)
  - [Awesome Generative Modeling](https://github.com/zhoubolei/awesome-generative-modeling)
  - [Awesome Image Classification](https://github.com/weiaicunzai/awesome-image-classification)
- - [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
+ - [Deep Learning Collection](https://github.com/exajobs/deep-learning-collection)
  - [Awesome Machine Learning in Biomedical(Healthcare) Imaging](https://github.com/XindiWu/Awesome-Machine-Learning-in-Biomedical-Healthcare-Imaging)
  - [Awesome Deep Learning for Tracking and Detection](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection)
  - [Awesome Human Pose Estimation](https://github.com/wangzheallen/awesome-human-pose-estimation)
