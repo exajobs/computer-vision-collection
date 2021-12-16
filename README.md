@@ -66,7 +66,7 @@
  - [Awesome Human Pose Estimation](https://github.com/wangzheallen/awesome-human-pose-estimation)
  - [Awesome Deep Learning for Video Analysis](https://github.com/HuaizhengZhang/Awsome-Deep-Learning-for-Video-Analysis)
  - [Awesome Vision + Language](https://github.com/yuewang-cuhk/awesome-vision-language-pretraining-papers)
- - [Awesome Robotics](https://github.com/kiloreux/awesome-robotics)
+ - [Robotics Collection](https://github.com/exajobs/robotics-collection)
  - [Awesome Visual Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer)
  - [Awesome Embodied Vision](https://github.com/ChanganVR/awesome-embodied-vision)
  - [Awesome Anomaly Detection](https://github.com/hoya012/awesome-anomaly-detection)
