@@ -2,6 +2,11 @@
 > Welcome To The World of Computer Vision Collection ®. A collection of awesome software, libraries, documents, books, resources and cool stuff about Computer Vision.
 > Thanks to our daily readers and contributoprs. The goal is to build a categorized community-driven collection of very well-known resources. Sharing, suggestions and contributions are always welcome!
 
+### What is Computer Vision?
+
+[Computer vision](https://www.ibm.com/topics/computer-vision) is a field of artificial intelligence (AI) that enables computers and systems to derive meaningful information from digital images, videos and other visual inputs — and take actions or make recommendations based on that information. If AI enables computers to think, computer vision enables them to see, observe and understand.
+
+
 ## Table of Contents
 
  - [Awesome Lists](#awesome-lists)
